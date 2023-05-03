@@ -1,7 +1,7 @@
 # Graphify Playlist
 The official Graphify playlist. This is what we use for music.
 
-- [Download the latest version](https://github.com/GraphifyStats/playlist/releases/latest)
+- [Download the latest version](https://github.com/GraphifyStats/playlist/releases/latest/download/Graphify.playlist)
 - [View all of the songs included in the playlist](https://streamlabs.com/graphifystatistics/chatbot/playlist)
 - [Read our license](LICENSE.md)
 
