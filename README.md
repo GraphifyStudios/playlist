@@ -17,4 +17,4 @@ Afterwards, click on the "Load .Playlist File" icon at the top.
 Find where you downloaded the playlist file, then select it.
 
 All of our songs should be imported!
-If not, make sure to contact us on [Discord](https://discord.gg/jvCgpC2RMU).
+If not, make sure to contact us on [Discord](https://dsc.gg/usos).
